@@ -1,5 +1,5 @@
 import React from "react";
-import Slider from '../inc/Slider';
+//import Slider from '../inc/Slider';
 import { Link } from "react-router-dom";
 import Vmc from "./inc/Vmc";
 import Service from "./Service";
@@ -11,7 +11,7 @@ import Footer from "./Footer";
 function Home() {
     return(
         <div>
-            <Slider />
+            {/* <Slider /> */}
             <section className="section">
                 <div className="container">
                     <div className="row">

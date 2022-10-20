@@ -1,4 +1,6 @@
 import React from "react";
+import Footer from "./Footer";
+
 
 function About() {
     return(
@@ -8,7 +10,10 @@ function About() {
                     <h2>About page</h2>
                 </div>
             </div>
+        <Footer />
+
         </div>
+
      );
 }
 

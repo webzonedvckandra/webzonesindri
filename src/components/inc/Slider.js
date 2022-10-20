@@ -17,16 +17,18 @@ function Slider() {
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-            <img src={Slider1} class="d-block w-100" alt="..."/>
+            {/* <img src={Slider1} class="d-block w-100" height={500} alt="..."/> */}
+            <img src={Slider2} class="d-block w-100" height={835} alt="..."/>
+
             </div>
             <div class="carousel-item">
-            <img src={Slider2} class="d-block w-100" alt="..."/>
+            <img src={Slider2} class="d-block w-100" height={835} alt="..."/>
             </div>
             <div class="carousel-item">
-            <img src={Slider3} class="d-block w-100" alt="..."/>
+            <img src={Slider3} class="d-block w-100" height={835} alt="..."/>
             </div>
             <div class="carousel-item">
-            <img src={home} class="d-block w-100" alt="..."/>
+            <img src={home} class="d-block w-100" height={835} alt="..."/>
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

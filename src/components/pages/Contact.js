@@ -38,7 +38,7 @@ export default function Contact() {
                                 <div className="email">
                                     <i className="bi bi-envelope"></i>
                                     <h4>Email:</h4>
-                                    <p>info@example.com</p>
+                                    <p>webzonesindri@gmail.com</p>
                                 </div>
                                 <div className="phone">
                                     <i className="bi bi-phone"></i>
